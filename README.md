@@ -24,7 +24,6 @@ Este proyecto en Python utiliza **OpenCV** para detectar movimiento en tiempo re
 
 Cuando ejecutas directamente `plotting.py`, **automáticamente también se ejecuta el detector de movimiento** gracias a cómo está estructurado el código. Esto es **intencional**: así puedes registrar los eventos y ver el gráfico generado en un solo paso.
 
-> ¡Ideal si quieres una solución "plug & play"! Solo corre un archivo y tendrás tu mini sistema de vigilancia funcionando.
 
 ## ▶️ Cómo ejecutarlo
 
